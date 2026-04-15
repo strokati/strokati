@@ -1,7 +1,7 @@
 ## Hi I'm Vadym 👋
 
 #### Current Projects
-- [**Submarin**](https:submar.in) - universal knowledge retention platform with an intelligent spaced repetition system
+- [**Submarin**]() - universal knowledge retention platform with an intelligent spaced repetition system
 
 <!--
 **strokati/strokati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
