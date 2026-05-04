@@ -2,7 +2,9 @@
 
 #### Current Projects
 - [**Submarin**](https://github.com/strokati/submarin) - universal knowledge retention platform with an intelligent spaced repetition system
+- [**Mozaikas**](https://github.com/strokati/mozaikas) - 
 - [**Scrajo**](https://github.com/strokati/scrajo) - a job search platform that helps automate the search for current job vacancies across various websites
+- [**Movnyk**](https://github.com/strokati/movnyk) - 
 
 <!--
 **strokati/strokati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
