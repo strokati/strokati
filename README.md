@@ -4,7 +4,7 @@
 - [**Submarin**](https://github.com/strokati/submarin) - universal knowledge retention platform with an intelligent spaced repetition system
 - [**Submarin Web**](https://github.com/strokati/submarin-web) - website that provide detailed description, documentation and download links for Windows, MacOS, and Linux tool.
 - [**Reeesume**](https://github.com/strokati/reeesume) - A private, local-first career management app. One master database of your entire career history — unlimited, never shared. Tailored resumes and cover letters per application, AI-assisted, exported as PDF or DOCX.
-- [**mozAIkas**](https://github.com/strokati/mozaikas) - 
+- [**mozAIkas**](https://github.com/strokati/mozaikas) - is a system that turns an idea into **falsifiable hypotheses**, orchestrates **experiments**, collects **graded evidence** from **real data sources**, and only then produces a **verdict** — go, pivot, or kill.
 - [**Scrajo**](https://github.com/strokati/scrajo) - a job search platform that helps automate the search for current job vacancies across various websites
 - [**Movnyk**](https://github.com/strokati/movnyk) - 
 
